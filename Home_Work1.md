@@ -11,7 +11,7 @@
 ### Инструкция к заданию
 
 1. Установите средство виртуализации [Oracle VirtualBox](https://www.virtualbox.org/).
-VB был проинсталирован на ПК:
+Установка VB на ПК:
 ![VB_Install-1](https://user-images.githubusercontent.com/123881243/219954954-30ec19d3-4679-4d88-b5cd-63ef4f047464.png)
 ![VB_Install-2](https://user-images.githubusercontent.com/123881243/219955022-16aa8fe1-4836-43ac-8a5a-bc7baf7ba65c.png)
 ![VB_Install-3](https://user-images.githubusercontent.com/123881243/219955030-2ace8c2e-58ae-477f-b6c5-c2e9c9081101.png)
@@ -19,6 +19,10 @@ VB был проинсталирован на ПК:
 ![VB_Install-4_1](https://user-images.githubusercontent.com/123881243/219955042-eb746d1d-b9cc-4e57-88b0-4e23f0f05f5b.png)
 
 1. Установите средство автоматизации [Hashicorp Vagrant](https://hashicorp-releases.yandexcloud.net/vagrant/).
+Установка Vagrant на ПК:
+![Vagrant_1](https://user-images.githubusercontent.com/123881243/219955764-f66352a9-e455-4133-a349-0f35e4cef4ab.png)
+![Vagrant_2](https://user-images.githubusercontent.com/123881243/219955765-cb507f1f-0e57-4920-97fb-021185fcf0f0.png)
+![Vagrant_3](https://user-images.githubusercontent.com/123881243/219955769-9c70dcb8-fb26-47c1-a597-1adf7e168bd4.png)
 
 1. В вашем основном окружении подготовьте удобный для дальнейшей работы терминал. Можно предложить:
 
