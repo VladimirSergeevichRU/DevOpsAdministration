@@ -13,6 +13,10 @@
 1. Установите средство виртуализации [Oracle VirtualBox](https://www.virtualbox.org/).
 VB был проинсталирован на ПК:
 ![VB_Install-1](https://user-images.githubusercontent.com/123881243/219954954-30ec19d3-4679-4d88-b5cd-63ef4f047464.png)
+![VB_Install-2](https://user-images.githubusercontent.com/123881243/219955022-16aa8fe1-4836-43ac-8a5a-bc7baf7ba65c.png)
+![VB_Install-3](https://user-images.githubusercontent.com/123881243/219955030-2ace8c2e-58ae-477f-b6c5-c2e9c9081101.png)
+![VB_Install-4](https://user-images.githubusercontent.com/123881243/219955037-ce4c9aae-bc41-41e0-af6a-179354650ecf.png)
+![VB_Install-4_1](https://user-images.githubusercontent.com/123881243/219955042-eb746d1d-b9cc-4e57-88b0-4e23f0f05f5b.png)
 
 1. Установите средство автоматизации [Hashicorp Vagrant](https://hashicorp-releases.yandexcloud.net/vagrant/).
 
