@@ -11,6 +11,8 @@
 ### Инструкция к заданию
 
 1. Установите средство виртуализации [Oracle VirtualBox](https://www.virtualbox.org/).
+VB был проинсталирован на ПК:
+![VB_Install-1](https://user-images.githubusercontent.com/123881243/219954954-30ec19d3-4679-4d88-b5cd-63ef4f047464.png)
 
 1. Установите средство автоматизации [Hashicorp Vagrant](https://hashicorp-releases.yandexcloud.net/vagrant/).
 
