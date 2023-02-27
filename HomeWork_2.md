@@ -46,9 +46,8 @@
 
 3. Какой процесс с PID `1` является родителем для всех процессов в вашей виртуальной машине Ubuntu 20.04?
 ### Ответ:
-ps -auxf
-![изображение](https://user-images.githubusercontent.com/123881243/221432734-62292633-357d-47ca-a16c-b219adae9ee3.png)
-Процесс /sbin/init есть одно уточнение, точней [вопрос](https://github.com/VladimirSergeevichRU/DevOpsAdministration/blob/main/Questions.md)
+![изображение](https://user-images.githubusercontent.com/123881243/221642098-570757ea-b686-417a-b9c6-c9169a528df9.png)
+Процесс демон инициализации systemd
 
 4. Как будет выглядеть команда, которая перенаправит вывод stderr `ls` на другую сессию терминала?
 ### Ответ:
