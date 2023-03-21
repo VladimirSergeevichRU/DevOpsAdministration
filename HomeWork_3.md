@@ -56,7 +56,7 @@ file опирается на свой конфигурационный файл 
 ![изображение](https://user-images.githubusercontent.com/123881243/225684422-b6ee05ab-da0b-4255-b38d-b4af13fc4887.png)
 
 Версию ядра и релиза можно узнать с помощью команды `uname -r -v`
-Также можно посмотреть файл в псевдо-файловая системe `cat /proc/vervion`
+Также можно посмотреть файл в псевдо-файловая системe `cat /proc/version`
 И ещё по пути `/proc/sys/kernel/{ostype, hostname, osrelease, version, domainname}` о чём написано в man uname:
 
 ![изображение](https://user-images.githubusercontent.com/123881243/225896404-9ba17bf0-2d0f-4bd6-bb6d-b24833d91cb6.png)
